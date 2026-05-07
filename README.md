@@ -1,5 +1,4 @@
 ## HOLAAA!!!
-Status: bored
 <!--
 **up250078pprg/up250078pprg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
