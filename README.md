@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=F8BBD0&center=true&vCenter=true&width=700&lines=Rosa+Guadalupe+Pérez;IT+%26+Digital+Innovation+Engineering+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=F8BBD0&center=true&vCenter=true&weight=700&size=42$duration=3000&pause=1000&width=700&lines=Rosa+Guadalupe+Pérez;IT+%26+Digital+Innovation+Engineering+Student" />
 
 - ୨୧ Passionate about software development, creativity and meaningful projects
 - ୨୧ Constantly learning and building new ideas through code, design and problem solving
