@@ -7,12 +7,12 @@
 <p color="F8BBD0">up250078@alumnos.upa.edu.mx</p>
 
 <h3 align="left">Languages and Tools:</h3>
-[Python](https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=black)
-[C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-[PHP](https://img.shields.io/badge/PHP-F8BBD0?style=for-the-badge&logo=php&logoColor=black)
-[MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-[HTML5](https://img.shields.io/badge/HTML5-F8BBD0?style=for-the-badge&logo=html5&logoColor=black)
-[CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+<img src= "https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=black">
+<img src= "https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src= "https://img.shields.io/badge/PHP-F8BBD0?style=for-the-badge&logo=php&logoColor=black">
+<img src= "https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+<img src= "https://img.shields.io/badge/HTML5-F8BBD0?style=for-the-badge&logo=html5&logoColor=black">
+<img src= "https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
 
 <h3 align="left">Hobbies:</h3>
 ♡ Listening to music for hours  
