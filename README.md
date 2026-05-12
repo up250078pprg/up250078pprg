@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Rosa Pérez</h1>
-<h3 align="center">A passionate ITDI student</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=F8BBD0&center=true&vCenter=true&width=700&lines=Rosa+Guadalupe+Pérez;IT+%26+Digital+Innovation+Engineering+Student" />
 
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **up250078@alumnos.upa.edu.mx**
+- ୨୧ Passionate about software development, creativity and meaningful projects
+- ୨୧ Constantly learning and building new ideas through code, design and problem solving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
